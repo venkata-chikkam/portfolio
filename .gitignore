@@ -1,0 +1,25 @@
+# Ignore README.md - keep it local but don't push to GitHub
+README.md
+
+# Common files to ignore
+.DS_Store
+*.log
+.env
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# Ignore large files and project directories
+ML Final project/
+OS 2024 Projects/
+machinelearning/
+search/
+multiagent/
+tracking/
+Senior project/
+*.zip
+*.7z
+*.rar
+ml-final-project/
+os-projects/ 
